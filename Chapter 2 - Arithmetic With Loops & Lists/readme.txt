@@ -1,0 +1,1 @@
+This chapter deals with data types like integers, floats and Booleans. The reader learns to create lists, add/remove to list, and find elements in a list using indices. One can solve arithmetic problems such as finding the average of a list of numbers with loops, lists and variables.
